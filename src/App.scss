@@ -1,0 +1,9 @@
+@import "./scss/reset";
+
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tauri&display=swap');
+
+body {
+  background-image: linear-gradient(to top, #5e9b98 10%, #d198aa 100%);
+  min-height: 100vh;
+}
